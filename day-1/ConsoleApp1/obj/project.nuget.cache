@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3megFMED+s5I2NrVmanwhGiNy2sCc6i0h0upRk3TeWQmvSaAaEScxU5aPO1tl5nNLkoQLWpeCiCunedRXh9eA==",
+  "dgSpecHash": "ZP/NiYlrzNUnZFW4D+hQ0V5pE9Ty7JS5ykQ+ZtVHzD0jPdXcgL4x8LAm4aS0q0O2Zq+4UdHtyFgCGPWb7WZkqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\dotnet\\day-1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "/home/mani/Desktop/dotnet/day-1/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,44 +1,59 @@
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
-C:\Users\Admin\Desktop\dotnet\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
-C:\Users\Admin\Desktop\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
-C:\Users\Admin\Desktop\New folder\dotnet\day-1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.exe
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/Admin/Desktop/dotnet/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.exe
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/Admin/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.exe
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/Admin/Desktop/New folder/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/mani/Desktop/dotnet/day-1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
